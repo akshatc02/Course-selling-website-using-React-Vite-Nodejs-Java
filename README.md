@@ -8,7 +8,7 @@ Make sure you have Node.js installed on your machine.
 
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/your-username/Course-selling-website-using-React-Vite-Nodejs-Javascript.git
+git clone 
 
 
 Navigate to the project directory:
