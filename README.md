@@ -13,25 +13,25 @@ git clone https://github.com/your-username/Course-selling-website-using-React-Vi
 
 Navigate to the project directory:
 bash
-Copy code
+
 cd Course-selling-website-using-React-Vite-Nodejs-Javascript
 
 
 Install dependencies:
 bash
-Copy code
+
 npm install
 Running the Project
 
 
 Start the frontend development server using Vite:
 bash
-Copy code
+
 npm run dev
 
 
 Start the backend server with JWT authentication:
 bash
-Copy code
+
 node courseappwithjwt.js
 Now, you should be able to access the application at http://localhost:3000 in your web browser.
